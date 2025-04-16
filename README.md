@@ -9,6 +9,7 @@ In this project, data from the FIFA25 ratings page on ea.com is being scraped an
 
 🔹 player_profile
 | Column Name | Data Type | Description |
+| --- | --- | --- |
 | player_name | VARCHAR | Name of the player |
 | age | INT | Age of the player |
 | league | VARCHAR | League the player currently plays in |
