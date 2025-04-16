@@ -7,7 +7,7 @@ This project covers the full journey of a data analyst—from collecting data by
 🗃️ Database Schema
 In this project, data from the FIFA25 ratings page on ea.com is being scraped and stored in a MySQL database. The database consists of two main tables: player_profile and player_stats.
 
-### 📊 `Database Schema`
+### 📊 `players_profile`
 
 | Column Name | Data Type | Description |
 | --- | --- | --- |
