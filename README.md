@@ -30,8 +30,14 @@ In this project, data from the FIFA25 ratings page on ea.com is being scraped an
 |  position | VARCHAR | Main playing position |
 |  ovr | INT | Overall rating |
 |  pac | INT | Pace |
+|  pac+- | INT | Change in Pace compared to the previous FIFA version |
 |  sho | INT | Shooting |
+|  sho+- | INT | Change in Shooting compared to the previous FIFA version |
 |  pas | INT | Passing |
+|  pas+- | INT | Change in Passing compared to the previous FIFA version |
 |  dri | INT | Dribbling |
+|  dri+- | INT | Change in Dribbling compared to the previous FIFA version |
 |  def | INT | Defending |
-|  phy | INT | Physical |
+|  def+- | INT | Change in Defending compared to the previous FIFA version |
+|  phy | INT | Physicality |
+|  phy+- | INT | Change in Physicality compared to the previous FIFA version |
