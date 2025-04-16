@@ -18,3 +18,20 @@ In this project, data from the FIFA25 ratings page on ea.com is being scraped an
 | height_cm | INT | Player's height in centimeters | 
 | weight_kg | INT | Player's weight in kilograms |
 | alt_position | VARCHAR | Alternate playing positions |
+
+### 📊 `players_stats`
+| Column Name | Data Type | Description |
+| --- | --- | --- |
+| rank | INT | Player's overall rank on the FIFA25 list |
+| player_name | VARCHAR | Player's name (linked to player_profile) |
+| image_url | TEXT | URL of the player's image |
+| nationality | VARCHAR | Nationality of the player |
+|  club | VARCHAR | Club the player is signed with |
+|  position | VARCHAR | Main playing position |
+|  ovr | INT | Overall rating |
+|  pac | INT | Pace |
+|  sho | INT | Shooting |
+|  pas | INT | Passing |
+|  dri | INT | Dribbling |
+|  def | INT | Defending |
+|  phy | INT | Physical |
