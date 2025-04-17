@@ -41,3 +41,5 @@ In this project, data from the FIFA25 ratings page on ea.com is being scraped an
 |  def+- | INT | Change in Defending compared to the previous FIFA version |
 |  phy | INT | Physicality |
 |  phy+- | INT | Change in Physicality compared to the previous FIFA version |
+
+[players_info.py](./players_info.py)
